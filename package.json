@@ -1,0 +1,11 @@
+{
+  "name": "slackmeet",
+  "version": "1.0.0",
+  "description": "A Meetup.com Slack integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgina Hoagland",
+  "license": "ISC"
+}
